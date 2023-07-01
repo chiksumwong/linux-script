@@ -8,9 +8,8 @@ echo "#######################################################################"
 
 echo "[INFO] Install Start"
 
-sudo apt update && sudo apt upgrade
-
 echo "[INFO] Install Nginx"
+sudo apt update && sudo apt upgrade
 sudo apt update && sudo apt install nginx -y
 
 echo "[INFO] Install Completed"
