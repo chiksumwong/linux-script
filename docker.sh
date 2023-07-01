@@ -33,4 +33,10 @@ echo "[INFO Set Docker Permission]"
 sudo usermod -aG docker $USER
 newgrp docker
 
+echo "[INFO Check Docker Permission]"
+getent group docker
+
+echo "[INFO Check Docker Setup]"
+docker version
+
 echo "[INFO] Setup Completed"
