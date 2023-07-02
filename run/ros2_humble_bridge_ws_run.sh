@@ -4,4 +4,6 @@ then
     exit 1
 fi
 
+cd ~/ros2_ws
+. install/setup.bash
 ros2 run rosbridge_server rosbridge_websocket

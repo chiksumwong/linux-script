@@ -3,7 +3,7 @@
 clear
 echo "#######################################################################"
 echo "#                     ROS2 Nav2 Setup Sctipt                          #"
-echo "# Linux Version: Ubuntu 22.04                                               #"
+echo "# Linux Version: Ubuntu 22.04                                         #"
 echo "#######################################################################"
 
 echo "[INFO] Install Start"
