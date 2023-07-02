@@ -3,7 +3,7 @@
 clear
 echo "#######################################################################"
 echo "#                     ROS2 Humble Setup Sctipt                        #"
-echo "# Ubuntu Version: 22.04                                               #"
+echo "# Linux Version: Ubuntu 22.04                                               #"
 echo "#######################################################################"
 
 echo "[INFO] Install Start"
